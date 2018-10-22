@@ -19,7 +19,7 @@ class Price2Old {
      */
     private final boolean old;
 
-    Price2Old(Price price, Boolean old) {
+    Price2Old(Price price, boolean old) {
         this.price = price;
         this.old = old;
     }
